@@ -33,7 +33,7 @@ Ephocs 100
 Summary 
 Neither model was able to perform above 73% accuracy rate.  First and second evalution graphs seem to diverge with the traing error and the validation error, with the training error staying low and the validation error increasing on the loss graphs it seems to do this from over fitting data and learning way too much on the training examples.  Its pretty apparent from comparing the accuracy and the loss graphs. It can't seem to tell the difference from the training data and the actually new data.
 
-The third evaluation seems to have a lower loss sensitivity as the first two. Seems for the loss graph that the gap will be minimal to the point of stability
+The third evaluation seems to have a lower loss sensitivity as the first two. Seems for the loss graph that the gap will be minimal to the point of stability with its two final values. So the third evaluation has more promise for a good fit for the training and validation loss.
 
 
 
